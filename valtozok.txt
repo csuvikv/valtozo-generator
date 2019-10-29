@@ -1,0 +1,66 @@
+NaCl
+NH4Cl
+KCl
+NaI
+KI
+NaBr
+KBr
+NH4Br
+Na2CO3
+NaHCO3
+KHCO3
+K2CO3
+Li2CO3
+CaCO3
+Na2S2O3
+Na2S2O5
+K2SO4
+Na2SO4
+CaSO4
+Na2HPO4
+NaH2PO4
+CaHPO4
+MgSO4
+Mg subCO3
+Al2(SO4)3
+BaSO4
+ZnO
+ZnSO4
+Bi subNO3
+MgO
+Borax
+NaNO2
+KNO3
+Trometamolum
+Ureum
+Phenolphtaleinum
+Barbitalum
+Phenobarbitalum
+PhenobarbitalNa
+Na acetas trih.
+Calcii gluconas
+Chlorali hydras
+Benzocainum
+Procainum HCl
+Lidocainum
+Ac. asparticum
+Dinatrii edetas
+Ac. acetylsalicylicum
+Ac. salicylicum
+Methylis p-hydroxibenzoas
+Phenazonum
+MetamizolumNa
+Paracetamolum
+Ac. ascorbicum
+Ac. benzoicum
+Ac. citricum monoh.
+Coffeinum
+Theobrominum
+Thephyllinum
+Ac. tartaricum
+Methenaminum
+Glucosum
+Fructosum
+Lactosum monoh.
+Saccharum
+Sorbitolum
